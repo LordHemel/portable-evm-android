@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.portableevm.app-merged_res-73:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.portableevm.app-main-75:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.portableevm.app-merged_res-73:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.portableevm.app-main-75:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.portableevm.app-merged_res-73:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.portableevm.app-main-75:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.portableevm.app-merged_res-73:/xml_usb_device_filter.xml.flat",
+        "source": "com.example.portableevm.app-main-75:/xml/usb_device_filter.xml"
+    },
+    {
+        "merged": "com.example.portableevm.app-merged_res-73:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.portableevm.app-main-75:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.portableevm.app-merged_res-73:/xml_backup_rules.xml.flat",
+        "source": "com.example.portableevm.app-main-75:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.portableevm.app-merged_res-73:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.portableevm.app-main-75:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

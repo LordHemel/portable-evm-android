@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.PortableEvmAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. Colors below are mainly for legacy/View-based attributes; Compose uses PortableEvmTheme. -->
+        <item name="colorPrimary">@color/primaryBlue</item>
+        <item name="colorPrimaryContainer">@color/primaryBlueDark</item>
+        <item name="android:statusBarColor">@color/primaryBlueDark</item>
+    </style>
+</resources>
